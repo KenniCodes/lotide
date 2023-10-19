@@ -1,0 +1,26 @@
+{
+  "name": "@kenni.codes/lotide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenniCodes/lotide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenniCodes/lotide/issues"
+  },
+  "homepage": "https://github.com/KenniCodes/lotide#readme",
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^9.2.2"
+  }
+}
